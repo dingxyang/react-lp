@@ -1,0 +1,6 @@
+.marginAuto {
+  max-width: 65ch;
+  font-size: 1rem;
+  line-height: 1.75;
+  margin: auto;
+}
