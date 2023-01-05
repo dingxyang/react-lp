@@ -11,6 +11,9 @@ export default function Layout() {
         <li>
           <Link to="/projects">Projects</Link>
         </li>
+        <li>
+          <Link to="/massiveData">massiveData</Link>
+        </li>
       </ul>
       <Outlet />
     </div>

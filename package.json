@@ -3,5 +3,9 @@
   "private": true,
   "author": "dingxyang <https://github.com/dingxyang>",
   "scripts": {},
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@esun/eslint-config": "^0.0.13",
+    "eslint": "^8.31.0"
+  }
 }

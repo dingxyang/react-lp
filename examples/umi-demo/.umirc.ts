@@ -5,5 +5,6 @@ export default defineConfig({
   routes: [
     { path: '/', component: 'index' },
     { path: '/projects', component: 'projects' },
+    { path: '/massiveData', component: 'MassiveData' },
   ],
 });
