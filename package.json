@@ -5,7 +5,7 @@
   "scripts": {},
   "license": "MIT",
   "devDependencies": {
-    "@esun/eslint-config": "^0.0.13",
+    "@esun/eslint-config": "^0.0.16",
     "eslint": "^8.31.0"
   }
 }

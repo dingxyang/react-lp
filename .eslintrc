@@ -1,0 +1,6 @@
+{
+    "extends": "@esun/eslint-config",
+    "ignorePatterns": [
+        "*.json"
+    ]
+}

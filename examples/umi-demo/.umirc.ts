@@ -6,5 +6,6 @@ export default defineConfig({
     { path: '/', component: 'index' },
     { path: '/projects', component: 'projects' },
     { path: '/massiveData', component: 'MassiveData' },
+    { path: '/antdForm', component: 'antdForm' },
   ],
 });
